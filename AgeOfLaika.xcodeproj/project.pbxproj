@@ -409,6 +409,7 @@
 				E848A7A319D187E100A81D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E848A7A419D187E100A81D6C /* Build configuration list for PBXNativeTarget "AgeOfLaikaTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				E848A7A619D187E100A81D6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
